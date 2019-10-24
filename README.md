@@ -1,1 +1,2 @@
 # JavaAlapok
+Java ArrayList használata
